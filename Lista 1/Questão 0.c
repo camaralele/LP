@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 /*Questão 0*/
